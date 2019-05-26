@@ -4,3 +4,5 @@ commit ke 2
 commit ke 6
 
 diubah di master
+
+diubah di lain
