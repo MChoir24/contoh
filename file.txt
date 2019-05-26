@@ -1,5 +1,4 @@
 ini baris pertama
 commit ke 2
-commit ke 3
 
 commit ke 6
