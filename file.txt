@@ -6,3 +6,5 @@ commit ke 6
 diubah di master
 
 diubah di lain
+
+lain
