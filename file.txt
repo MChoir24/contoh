@@ -1,6 +1,7 @@
 ini baris pertama
 commit ke 2
 
+<<<<<<< HEAD
 commit ke 6
 
 diubah di master
@@ -12,3 +13,5 @@ lain
 master
 lain2
 master 3
+=======
+>>>>>>> parent of d45f784... commit6
